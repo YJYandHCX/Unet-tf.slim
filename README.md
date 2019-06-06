@@ -6,4 +6,9 @@
 链接:https://pan.baidu.com/s/1IqFrgWrW278hYbhQ2XshVA 提取码:z3c4 
 
 （2）测试效果：
+
 原图：
+
+![Image text](https://github.com/YJYandHCX/Unet-tf.slim/blob/master/test/json/1.jpg)
+
+效果：
